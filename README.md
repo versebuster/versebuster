@@ -6,10 +6,6 @@
 - 📫 How to reach me ... ???
 - ⚡ Fun fact: ... Bacteria grow at an exponential rate.
 - 😨 Scariest fact: Angels can rip out your pages. (Sid Roth's It's Supernatural!, 2024)
-- ☕ Donations for projects:
-  - Bitcoin:  bc1qjs60g97272zd9c0fdr7yqjemqyugypqjkdqy2h
-  - Dogecoin: D5aiZLT9Vsx33ipFYZCkDxfP1YSkX1zzJZ
-  - Monero:   45d8wZMGVEMAH43ZtMbcfx7HV5FR87Cz6C1WpQfskXS2UuV32yQdFPz6ijwvYCZPjSFiKh5VMJNWsR3PyMpjN5jaVVvwmz7
 
 ## References
 
